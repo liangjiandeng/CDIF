@@ -27,13 +27,13 @@ the gradient domain than in the intensity domain.
 
 
 
-**Overall Framework:** The framework of our model. The details of our framework can be found in Sect. III.
+***Overall Framework:*** The framework of our model. The details of our framework can be found in Sect. III.
 
 ![framework](fig-to-show/fig2.jpg)
 
 
 
-**Fidelity:** Fig. 4. (a) A close-up of the HRMS image of the Ple´iades dataset; (b)
+***Fidelity:*** Fig. 4. (a) A close-up of the HRMS image of the Ple´iades dataset; (b)
 Context-aware regions extracted from (a); (c) Scatter plot of ∇1X1 and ∇1P
 for pixels belonging to Class 1 in (b); (d) A histogram of ∇1X1  ∇1P
 for pixels belonging to Class 1 in (b). It is worth to be remarked that the
@@ -47,7 +47,7 @@ same inside each region and for each band.
 
 
 
-**Handling the decimation operation:** Fig. 5. The graphic representation of (22) for a scale ratio equal to 4.
+***Handling the decimation operation:*** Fig. 5. The graphic representation of (22) for a scale ratio equal to 4.
 The white squares with a blank content indicate zero values. The first row
 shows the processing from U to USST, which is equal to an element-wise
 multiplication between DSST and U, i.e., the second row. It is worth noting
@@ -58,18 +58,22 @@ entries are 1 only in one position [44].
 
 
 
-**Final Model:** 
+***Final Model:*** 
 
 ![framework](fig-to-show/fig5.jpg)
 
 
 
-**Visual Results:** Fig. 6. Fusion results with close-ups for the compared approaches on the four-band Ple´iades dataset at reduced resolution (size of the PAN image: 256 ×
+***Visual Results:*** Fig. 6. Fusion results with close-ups for the compared approaches on the four-band Ple´iades dataset at reduced resolution (size of the PAN image: 256 ×
 256). . (a)-(j) Visual results in true colors of PRACS [9], RBDSD [49], C-GLP [59], GLP-Reg-FS [43], LGC [37], HQBP [60], PNN [19], TPNN [61], the
 proposed method, and the ground-truth (GT), respectively. (k)-(t) Residual images for the displayed red band.
 
 ![framework](fig-to-show/fig6.jpg)
 
+
+***Quantitative Results:*** The quantitative results of Fig. 6.
+
+![framework](fig-to-show/fig7.png)
 
 
 
