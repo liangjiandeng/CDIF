@@ -5,7 +5,7 @@
 - Code for paper: 
 # Citation
 ```bibtex
-@ARTICLE{mucnn,
+@ARTICLE{xiao2022tgrs,
 author={J.-L. Xiao, T.-Z. Huang, L.-J. Deng, Z.-C. Wu, and G. Vivone},
 booktitle={IEEE Trans. Geosci. Remote Sens.},
 title={A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening},
