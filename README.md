@@ -22,14 +22,14 @@ both the PAN image and the HRMS data considering blue (B), green (G), red
 be remarked that the behavior of PAN and HRMS images is more similar in
 the gradient domain than in the intensity domain.
 
-![motivation](fig-to-show/fig1.jpg)
+![motivation](fig-to-show/1.png)
 
 
 
 
 ***Overall Framework:*** The framework of our model. The details of our framework can be found in Sect. III.
 
-![framework](fig-to-show/fig2.jpg)
+![framework](fig-to-show/2.png)
 
 
 
@@ -43,7 +43,7 @@ a similar directly proportional relationship between HRMS and PAN images
 in the gradient domain. Thus, the values of ∇X∇P are approximately the
 same inside each region and for each band.
 
-![framework](fig-to-show/fig3.png)
+![framework](fig-to-show/3.png)
 
 
 
@@ -54,13 +54,13 @@ multiplication between DSST and U, i.e., the second row. It is worth noting
 that DSST is produced from sparse matrices (i.e., the blue squares), whose
 entries are 1 only in one position [44].
 
-![framework](fig-to-show/fig4.jpg)
+![framework](fig-to-show/4.png)
 
 
 
 ***Final Model:*** 
 
-![framework](fig-to-show/fig5.jpg)
+![framework](fig-to-show/5.png)
 
 
 
@@ -68,12 +68,12 @@ entries are 1 only in one position [44].
 256). . (a)-(j) Visual results in true colors of PRACS [9], RBDSD [49], C-GLP [59], GLP-Reg-FS [43], LGC [37], HQBP [60], PNN [19], TPNN [61], the
 proposed method, and the ground-truth (GT), respectively. (k)-(t) Residual images for the displayed red band.
 
-![framework](fig-to-show/fig6.jpg)
+![framework](fig-to-show/6.png)
 
 
 ***Quantitative Results:*** The quantitative results of Fig. 6.
 
-![framework](fig-to-show/fig7.png)
+![framework](fig-to-show/7.png)
 
 
 
