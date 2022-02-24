@@ -24,14 +24,13 @@ the gradient domain than in the intensity domain.
 
 <img src="fig-to-show/1.png" width = "50%" />
 
-![motivation](fig-to-show/1.png){:class="img-responsive"}
 
 
 
 
 ***Overall Framework:*** The framework of our model. The details of our framework can be found in Sect. III.
 
-![framework](fig-to-show/2.png)
+<img src="fig-to-show/2.png" width = "50%" />
 
 
 
@@ -45,7 +44,7 @@ a similar directly proportional relationship between HRMS and PAN images
 in the gradient domain. Thus, the values of ∇X∇P are approximately the
 same inside each region and for each band.
 
-![framework](fig-to-show/3.png)
+<img src="fig-to-show/3.png" width = "50%" />
 
 
 
@@ -56,13 +55,13 @@ multiplication between DSST and U, i.e., the second row. It is worth noting
 that DSST is produced from sparse matrices (i.e., the blue squares), whose
 entries are 1 only in one position [44].
 
-![framework](fig-to-show/4.png)
+<img src="fig-to-show/4.png" width = "50%" />
 
 
 
 ***Final Model:*** 
 
-![framework](fig-to-show/5.png)
+<img src="fig-to-show/5.png" width = "50%" />
 
 
 
@@ -70,12 +69,12 @@ entries are 1 only in one position [44].
 256). . (a)-(j) Visual results in true colors of PRACS [9], RBDSD [49], C-GLP [59], GLP-Reg-FS [43], LGC [37], HQBP [60], PNN [19], TPNN [61], the
 proposed method, and the ground-truth (GT), respectively. (k)-(t) Residual images for the displayed red band.
 
-![framework](fig-to-show/6.png)
+<img src="fig-to-show/6.png" width = "50%" />
 
 
 ***Quantitative Results:*** The quantitative results of Fig. 6.
 
-![framework](fig-to-show/7.png)
+<img src="fig-to-show/7.png" width = "50%" />
 
 
 
