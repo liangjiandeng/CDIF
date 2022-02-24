@@ -12,3 +12,9 @@ year={2022},
 pages={DOI: 10.1109/TGRS.2022.3154480},
 }
 ```
+
+# Method
+
+- Motivation: 
+
+![motivation](fig-to-showw/fig1.JPG)
