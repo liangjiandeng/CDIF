@@ -58,6 +58,18 @@ entries are 1 only in one position [44].
 
 
 
+**Final Model:** 
+
+![framework](fig-to-showw/fig5.jpg)
+
+
+
+**Visual Results:** Fig. 6. Fusion results with close-ups for the compared approaches on the four-band Ple´iades dataset at reduced resolution (size of the PAN image: 256 ×
+256). . (a)-(j) Visual results in true colors of PRACS [9], RBDSD [49], C-GLP [59], GLP-Reg-FS [43], LGC [37], HQBP [60], PNN [19], TPNN [61], the
+proposed method, and the ground-truth (GT), respectively. (k)-(t) Residual images for the displayed red band.
+
+![framework](fig-to-showw/fig6.jpg)
+
 
 
 
