@@ -74,7 +74,7 @@ proposed method, and the ground-truth (GT), respectively. (k)-(t) Residual image
 
 ***Quantitative Results:*** The quantitative results of Fig. 6.
 
-<img src="fig-to-show/7.png" width = "80%" />
+<img src="fig-to-show/7.png" width = "60%" />
 
 
 
