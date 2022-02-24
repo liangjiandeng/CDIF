@@ -1,4 +1,4 @@
-## [A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening]
+# [A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening, TGRS, 2022]
 
 **Homepage:** https://liangjiandeng.github.io/
 
