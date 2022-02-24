@@ -22,7 +22,7 @@ both the PAN image and the HRMS data considering blue (B), green (G), red
 be remarked that the behavior of PAN and HRMS images is more similar in
 the gradient domain than in the intensity domain.
 
-![motivation](fig-to-show/1.png =100)
+![motivation](fig-to-show/1.png){:class="img-responsive"}
 
 
 
