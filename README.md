@@ -1,6 +1,10 @@
 # A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening [Matlab Code]
 
 **Homepage:** https://liangjiandeng.github.io/
+
+# How to use?
+- Directly run: ```demo_Pleiades_test.m''' for a Pleiades example
+- Directly run: demo_WV3_test.m for a WV3 example
  
 # Citation
 ```bibtex
